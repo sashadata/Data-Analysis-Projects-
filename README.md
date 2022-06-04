@@ -18,5 +18,4 @@ Steps:
 * run correlarion 
 * create correlation chart
 
-
 ![](/images/Corr.png)
