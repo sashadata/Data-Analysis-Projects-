@@ -19,5 +19,4 @@ Steps:
 * create correlation chart
 
 
-
-![](/main/Corr.jpeg)
+![](/images/Corr.png)
