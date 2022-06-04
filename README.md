@@ -1,5 +1,5 @@
 
-#[Aleksandr Pugachev Portfolio:]
+#[Aleksandr Pugachev Portfolio]:
 
 
 # [Project 1:Exploratory Data Analysis](https://github.com/sashadata/project_correlation-.git)
