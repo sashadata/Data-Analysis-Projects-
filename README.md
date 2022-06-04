@@ -1,4 +1,3 @@
-# apugachev_data_analysis_projects
 
 Aleksandr Pugachev Portfolio:
 
