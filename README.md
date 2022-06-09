@@ -15,5 +15,7 @@ It is common practice to use dashboard to track the progress project The project
 [Agency Monitoring Dashboard](https://aleksandr-pugachev.shinyapps.io/Dashboard/?_ga=2.76574870.247857756.1654793361-1854485590.1654793361)
 
 
+** Project 3: Monitoring Reports Using R Markdown**
 
-![]
+
+![](/main/images/Rmarkdown.gif)
