@@ -16,4 +16,4 @@ It is common practice to use dashboard to track the progress project The project
 
 
 
-![/images/Trim.gif)
+![](/images/Trim.gif)
