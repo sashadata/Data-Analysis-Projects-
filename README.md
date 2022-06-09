@@ -18,4 +18,4 @@ It is common practice to use dashboard to track the progress project The project
 ** Project 3: Monitoring Reports Using R Markdown**
 
 
-![](/main/images/Rmarkdown.gif)
+![](/images/Rmarkdown.gif)
