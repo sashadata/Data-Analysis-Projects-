@@ -6,7 +6,8 @@ Aleksandr Pugachev Portfolio:
 
 This is example of exploratory data analysis. The dataset presents data collected from social project. The code shows general approach to look at the data (1) explore structure, (2) describe exiciting variables, (3) identify missing data, (4) run frequncy tables and crosstales, (5) explore relationship between gender and drops, (6) indentify new age categorities groups, which are at rik of dropping, and (6) create correlation chart.
 
-![](/images/Corr.png)
+![](/images/Rplot.png)
+
 
 ## [Project 2: Monitoring Dashboard for Agency]
 
