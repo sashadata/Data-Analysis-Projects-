@@ -4,7 +4,7 @@ Aleksandr Pugachev Portfolio:
 
 # [Project 1:Exploratory Data Analysis](https://github.com/sashadata/project_correlation-.git)
 
-This is example of exploratory data analysis. The dataset presents data collected from social project. The code shows general approach to look at the data (1) explore structure, (2) describe exiciting variables, (3) identify missing data, (4) run frequncy tables and crosstales, (5) explore relationship between gender and drops, (6) indentify new age categorities groups, which are at risk of dropping, and (6) create correlation chart.
+This is example of exploratory data analysis. The dataset presents data collected from social project. The code shows general approach to look at the data (1) explore structure, (2) describe exiciting variables, (3) identify missing data, (4) run frequency tables and crosstabs, (5) explore relationship between gender and drops, (6) indentify new age categorities groups, which are at risk of dropping, and (6) create correlation chart.
 
 ![](/images/Rplot.png)
 
