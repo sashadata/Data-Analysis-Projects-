@@ -31,3 +31,11 @@ This project focuses on creating moniroting program report using R markdown. If 
 This project looks at identifing different segments in the existing clients based on their income, age, household size as well as days in program, number of services received, goals attempted etc. 
 
 ![](/images/segment.JPG)
+
+# [Project 5: Logistic regression]
+
+The caseworkers provided more than 3000 services and opened 600 cases. Qualitative and quantitative data were collected for the target group. The last year result show that 33% of enrolled clinets failed to acheive the result. The key intention is to find out clients that are likely to fail and provide additional support for them to successfully complete the program. The project has two key goals (1) To identify the different factors that impact the failure to achieve the outcome
+and (2) To make a model to predict if your client will acheive the outcome or not.
+
+
+
