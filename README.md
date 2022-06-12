@@ -15,10 +15,10 @@ It is common practice to use dashboard to track the progress project The project
 
 ![](/images/Agency%20Dashboard.JPG)
 
-### [Project 3: Monitoring Reports Using R Markdown] 
+# [Project 3: Monitoring Reports Using R Markdown](https://github.com/sashadata/monitoring-reports-using-r-markdown.git)  
 
 
-This project focuses on creating moniroting program report using R markdown. 
+This project focuses on creating moniroting program report using R markdown. If agency uses databases to track data about beneficiaries, there is a possibility to pull raw data and create reports based on your team needs. The cool thing about R markdown is that it allows adding intercative to analysis. This report shows various charts on the current standing of project (ex. number enrolled by outcome, total number of services, popular services, the flow of service delivery), test hypothesis if gender associated with achieving successful completition), and peform logistic regressoin with indentifying important varimables impacting the program successful completition.  
 
 
 ![](/images/Rmarkdown.gif)
