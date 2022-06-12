@@ -27,3 +27,5 @@ This project focuses on creating moniroting program report using R markdown. If 
 # [Project 4: Clients Profiles](https://github.com/sashadata/clients-profiles.git) 
 
 This project looks at identifing different segments in the existing clients based on their income, age, household size as well as days in program, number of services received, goals attempted etc. 
+
+![](/images/segment.JPG)
