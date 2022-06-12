@@ -22,3 +22,8 @@ This project focuses on creating moniroting program report using R markdown. If 
 
 
 ![](/images/Rmarkdown.gif)
+
+
+# [Project 4: Clients Profiles]
+
+This project looks at identifing different segments in the existing clients based on their income, age, household size as well as days in program, number of services received, goals attempted etc. 
