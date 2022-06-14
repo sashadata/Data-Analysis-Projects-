@@ -39,3 +39,6 @@ and (2) To make a model to predict if your client will acheive the outcome or no
 
 ![](/images/Logistic.JPG)
 
+# [Project 6: Regression Analysis]
+
+The agency provides various public services to low-income families. The family opens cases and starts receiving services. Agency advocates, depending on the needs of family members,  assist the family to overcome the current crisis. Every family can work on several cases with advocates from different departments (public health, early childhood education, family well-being, housing etc). For better project planning with respect of staff busyness, this analysis looks at predicting the number of cases to be opened from other demographics variables of beneficiaries.  Personal data recorded includes age, income, assessment score, number of services, days spent in program, number of children in the family. (Work is in progress)
