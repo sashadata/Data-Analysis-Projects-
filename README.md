@@ -4,7 +4,7 @@
 
 # [Project 1:Exploratory Data Analysis](https://github.com/sashadata/project_correlation-.git)
 
-This is example of exploratory data analysis. The dataset presents data collected from social project. The code shows general approach to look at the data (1) explore structure, (2) describe exiciting variables, (3) identify missing data, (4) run frequency tables and crosstabs, (5) explore relationship between gender and drops, (6) indentify new age categorities groups, which are at risk of dropping, and (6) create correlation chart.
+This is an example of an exploratory data analysis. The dataset represents data collected from a social welfare project. The code performs the following functions: (1) explore the structure of the dataset, (2) describe existing variables, (3) identify missing values, (4) run frequency tables and crosstabs, (5) explore the relationship between gender and program drop outs, (6) identify age groups at increased risk of dropping out, and (6) create a correlation chart.
 
 ![](/images/Rplot.png)
 
