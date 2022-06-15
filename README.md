@@ -27,9 +27,9 @@ This code creates a program monitoring report using RStudio with the markdown pa
 ![](/images/Rmarkdown.gif)
 
 
-# [Project 4: Clients Profiles](https://github.com/sashadata/clients-profiles.git) 
+# [Project 4: Client Profiles](https://github.com/sashadata/clients-profiles.git) 
 
-This project looks at identifing different segments in the existing clients based on their income, age, household size as well as days in program, number of services received, goals attempted etc. 
+Knowing your program clients well strongly correlates with successful program implementation. This code identifies different segments among clients served based on age, household size, income, days in program, number of services received, goals pursued, etc. This is done using a k-means clustering unsupervised learning algorithm, which is widely applied in machine learning. 
 
 ![](/images/segment.JPG)
 
