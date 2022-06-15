@@ -20,8 +20,7 @@ It is common practice to use a dashboard to track project progress. The code sho
 # [Project 3: Monitoring Reports Using R Markdown](https://github.com/sashadata/monitoring-reports-using-r-markdown.git)  
 
 
-This project focuses on creating moniroting program report using R markdown. If agency uses databases to track data about beneficiaries, there is a possibility to pull raw data and create reports based on your team needs. The cool thing about R markdown is that it allows adding intercative to analysis. This report shows various charts on the current standing of project (ex. number enrolled by outcome, total number of services, popular services, the flow of service delivery), test hypothesis if gender associated with achieving successful completition), and peform logistic regressoin with indentifying important varimables impacting the program successful completition.  
-
+This code creates a program monitoring report using RStudio with the markdown package installed. If an agency uses a database (or multiple databases) to track beneficiary data, the code demonstrated can pull raw data and create custom reports. RStudio with the markdown package installed allows for there to be interactive elements within the reports. The report produced by the demonstrated code includes various charts illustrating the current standing of the program and also does more sophisticated analyses such as hypothesis testing and logistic regression.
 
 ![](/images/Rmarkdown.gif)
 
