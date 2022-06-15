@@ -22,6 +22,8 @@ It is common practice to use a dashboard to track project progress. The code sho
 
 This code creates a program monitoring report using RStudio with the markdown package installed. If an agency uses a database (or multiple databases) to track beneficiary data, the code demonstrated can pull raw data and create custom reports. RStudio with the markdown package installed allows for there to be interactive elements within the reports. The report produced by the demonstrated code includes various charts illustrating the current standing of the program and also does more sophisticated analyses such as hypothesis testing and logistic regression.
 
+#
+
 ![](/images/Rmarkdown.gif)
 
 
