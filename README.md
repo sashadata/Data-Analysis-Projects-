@@ -35,8 +35,7 @@ Knowing your program clients well strongly correlates with successful program im
 
 # [Project 5: Logistic regression](https://github.com/sashadata/logistic-regression.git)
 
-The caseworkers provided more than 3000 services and opened 600 cases. Qualitative and quantitative data were collected for the target group. The last year result show that 33% of enrolled clinets failed to acheive the result. The key intention is to find out clients that are likely to fail and provide additional support for them to successfully complete the program. The project has two key goals (1) To identify the different factors that impact the failure to achieve the outcome
-and (2) To make a model to predict if your client will acheive the outcome or not.
+The caseworkers provided more than 3,000 services and opened 600 cases. Qualitative and quantitative data were collected for the target group. Last year, 33% of enrolled clients failed to achieve the set outcomes. The code identifies clients likely to fail to achieve set outcomes and flags them for additional support. 
 
 ![](/images/Logistic.JPG)
 
