@@ -13,7 +13,6 @@ This is an example of an exploratory data analysis. The dataset represents data 
 
 It is common practice to use a dashboard to track project progress. The code shows an easy way to create such a dashboard. It can be completed using RStudio with the markdown and shiny packages installed. These resources are publicly available free of charge. The main purpose of this dashboard is to obtain insights about the project standing. By following the link below, you can access a live dashboard that shows progress by outcomes achieved and connects outcomes with beneficiary demographics; shows popular services delivered; and shows the frequency of activities by month. Go to [**Monitoring Dashboard for Agency**](https://aleksandr-pugachev.shinyapps.io/Dashboard/?_ga=2.76574870.247857756.1654793361-1854485590.1654793361)
 
-
 ![](/images/Agency%20Dashboard.JPG)
 
 
