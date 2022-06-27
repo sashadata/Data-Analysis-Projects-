@@ -38,6 +38,6 @@ The caseworkers provided more than 3,000 services and opened 600 cases. Qualitat
 
 ![](/images/Logistic.JPG)
 
-# [Project 6: Regression Analysis]
+# [Project 6: Regression Analysis](https://github.com/sashadata/Regression-Analysis.git)
 
-The agency provides various public services to low-income families. Caseworkers open cases for families in order for families to receive services that meet their current needs. Any given family may have several open cases with caseworkers from different departments (e.g. public health, early childhood education, family well-being, housing, etc.). To improve staffing efficiency, this analysis predicts the number of cases likely to be opened based on a family’s demographic variables. Personal data recorded includes age, income, assessment score, number of services, days spent in program, number of children in the family. (This code is in progress.)
+The agency provides various public services to low-income families. Caseworkers open cases for families in order for families to receive services that meet their current needs. Any given family may have several open cases with caseworkers from different departments (e.g. public health, early childhood education, family well-being, housing, etc.). To improve staffing efficiency, this analysis predicts the number of cases likely to be opened based on a family’s demographic variables. Personal data recorded includes age, income, assessment score, number of services, days spent in program, number of children in the family. 
